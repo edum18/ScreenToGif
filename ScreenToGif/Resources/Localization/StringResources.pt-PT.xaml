@@ -13,7 +13,7 @@
     <s:String x:Key="S.Cancel">Cancelar</s:String>
     <s:String x:Key="S.Yes">Sim</s:String>
     <s:String x:Key="S.No">Não</s:String>
-    <!--<s:String x:Key="S.Add">Add</s:String>-->
+    <!--<s:String x:Key="S.Add">Adicionar</s:String>-->
     <!--<s:String x:Key="S.Edit">Edit</s:String>-->
     <!--<s:String x:Key="S.Id">Id</s:String>-->
     <!--<s:String x:Key="S.Title">Title</s:String>-->
